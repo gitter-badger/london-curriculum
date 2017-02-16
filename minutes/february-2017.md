@@ -120,7 +120,7 @@ E: Is employer week still there?
 
 B: Yes, but planning is distributed
 
-D: Take 3 days out of the internal project and 3 days out of the 
+D: Take 3 days out of the internal project and 3 days out of the design sprints
 
 J: So to summarise, everything stays as is, but week 16 becomes design sprint, and planning distributed throughout (6 days)
 
