@@ -5,7 +5,7 @@ Founders and Coders is a community organisation and everything is made possible 
 - Dan - Founding Director of FAC
 - Ines - Co-director of FAC & Co-founder of DWYL
 - Nelson - Co-founder & CTO of DWYL
-- Bradley - Course coordinator
+- Bradley - Course facilitator
 - Rebecca - Director of Development for the Middle East and North Africa
 - Dona - liaison at the UK Israel Tech Hub
 - Eoin - developer in residence at FAC Nazareth
