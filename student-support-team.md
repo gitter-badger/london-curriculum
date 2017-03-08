@@ -10,5 +10,5 @@ These individuals will have regular check-ins with you a few times during your c
 | Nick | Alexis, Phillipa | @stevehopkinson |
 | Sohil | Samatar Joey |
 | Noga | Yvonne, Piotr |
-| Braldey | Maja, Antonio |
+| Bradley | Maja, Antonio |
 | Elias | Jessica, Akin |
