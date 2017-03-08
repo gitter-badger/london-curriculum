@@ -7,7 +7,7 @@ These individuals will have regular check-ins with you a few times during your c
 | --- | --- | --- |
 | Jen | Oli, Alice, Martha |
 | Dan | Lucy, Zooey, Finn |
-| Nick | Alexis, Phillipa | @stevehopkinson |
+| Nick | Alexis, Philippa | @stevehopkinson |
 | Sohil | Samatar Joey |
 | Noga | Yvonne, Piotr |
 | Bradley | Maja, Antonio |
