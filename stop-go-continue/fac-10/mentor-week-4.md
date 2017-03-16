@@ -4,6 +4,7 @@
 ### Go
 + Probably good to have a rota up front with two people assigned to each day – otherwise it's easy for stuff to slip between the gaps and end up realising at the last minute that you don't have any tutors arranged (easier said than done)
 + It'd be great to tweak the schedule slightly for research afternoon - right now it's just shown as one big block of time from 14.00-18.00. Making it explicit when presentations start would be handy - probably 4.30-5.30 as the timings slip pretty
++ Understanding that objects are passed by reference and primitives are passed by value in JavaScript should be mandatory knowledge for being accepted on to the course. If only because it's a tricky one to explain when you're put on the spot :wink:
 
 ### Continue
 + Responding to students' needs - we had to change the plan slightly after we got ahead of schedule on Day One and ended up doing the modularisation challenge two days early, which resulted in having to create some new materials and shuffle things around. But if anything, that's a positive – if the group's learning faster than we planned and we're able to push ahead and create new resources to fill the gap
