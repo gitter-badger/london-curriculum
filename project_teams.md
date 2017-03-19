@@ -7,3 +7,4 @@ In the first 8 weeks of the course you will complete weekly team projects. The t
 |Yvonne, Jessica, Akin, Oliver |Yvonne, Lucy, Samatar, Finn    |
 |Lucy, Joey, Piotr, Zooey      |Jessica, Joey, Alexis, Antonio |  
 |Martha, Alice, Samatar, Alexis|Akin, Piotr, Martha, Maja      |
+|Maja, Philippa, Finn, Antonio |Oliver, Zooey, Alice, Philippa |
