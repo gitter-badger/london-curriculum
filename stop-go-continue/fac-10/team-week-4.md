@@ -11,6 +11,7 @@
 ### Continue
 + Regular swapping
 
+
 ## AAMP Action Points
 ### Stop
 + Switch off being harsh on yourself
@@ -21,6 +22,7 @@
 ### Continue
 + Plan architecture
 
+
 ## SoFLY Action Points
 ### Stop
 + Working separately
@@ -30,11 +32,12 @@
 + Communicate mo betta
 + Test - each pair do half of both frontend & backend
 
-###Continue
+### Continue
 + Working together
 + Sofa (healthy)
 + Snack breaks
 + Bella therapy
+
 
 ## jajascript Machine
 ### Stop
