@@ -27,3 +27,18 @@
 + Take more time to plan at start, including project conventions and architecting. Include a contributing.md file
 + Focus on testing
 + More time on project README
+
+## Jajascript Action Points
+
+### Stop
+
++ Rushing on explanations to other team members
+
+### Go 
+
++ Fully review code from other pairs in pull requests
+
+### Continue
+
++ Readme being teams responsibility
++ Building architecture together as a team from the start of a project
