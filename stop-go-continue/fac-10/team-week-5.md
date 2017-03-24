@@ -42,3 +42,14 @@
 
 + Readme being teams responsibility
 + Building architecture together as a team from the start of a project
+
+## Globetown Action Points
+
+### Stop
+(No points here)
+
+### Go
++ 'More careful Git practice' - Review eachothers code more before merging into master. 
+
+### Continue
++ Team briefing at the beginning and throught the day. 
