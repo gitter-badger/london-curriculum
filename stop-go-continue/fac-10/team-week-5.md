@@ -2,8 +2,13 @@
 
 ## Zapo Action Points
 ### Stop
++ Spikes are spikes - give them a time limit
 
 ### Go
++ Everything together, if that means we don't finish, that's okay
+
+## Continue
++ Switching drivers
 
 ## AAMP Action Points
 ### Go
