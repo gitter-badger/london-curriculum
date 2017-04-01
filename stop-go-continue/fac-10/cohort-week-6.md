@@ -4,8 +4,8 @@
 2. stop elephant?
 	+ Look into hosting db in diff places. Def think we should do hosted servers rather than local servers
 	+ Dan suggests we should try not to use postgres specific features and instead use general sql features
-  + We debate whether or not to switch from Elephant
-  + Should we just communicate what psql features ElephantSQL does and doesn't support?
+	+ We debate whether or not to switch from Elephant
+	+ Should we just communicate what psql features ElephantSQL does and doesn't support?
 	+ We have decided to use Heroku next week and going forward for databases
 3. Workshops that focus on using SELECT on simple DBs
 	+ Oli says that the challenges commonly made us focus on pretty simple stuff selecting from simple DBs
